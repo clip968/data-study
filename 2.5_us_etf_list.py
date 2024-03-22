@@ -33,7 +33,6 @@ print('\n')
 
 # etfs 딕셔너리를 데이터프레임으로 변환
 df = pd.DataFrame(etfs)
-=======
 # -*- coding: utf-8 -*-
 
 # 라이브러리 불러오기
@@ -68,5 +67,4 @@ print('\n')
 
 # etfs 딕셔너리를 데이터프레임으로 변환
 df = pd.DataFrame(etfs)
->>>>>>> 12e429a7fc30fe35db4902461006890e7990d55e
 print(df)
